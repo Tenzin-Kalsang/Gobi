@@ -58,7 +58,7 @@ body{   /* there's no margin it to have space around the border*/
 }
 
 .art {
-    font-family: arial, serif, 'Times New Roman', Times, serif;  
+    font-family: Sans-serif, 'Times New Roman', Times, serif;  
     padding: 40px;
     margin-left: 30%;
     margin-right: 20px;
@@ -97,4 +97,10 @@ body{   /* there's no margin it to have space around the border*/
 
 p{
     font-size: 20px;
+}
+
+.art > h3{
+    font-family: fantasy;
+    font-size: 25px;
+    color:rgb(250, 182, 9);
 }
